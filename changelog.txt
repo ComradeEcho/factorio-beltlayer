@@ -37,11 +37,6 @@ Date: 2020-12-29
   Bugfixes:
     - Fix crash when marking an underground belt for upgrade in the underground layer. (https://mods.factorio.com/mod/beltlayer/discussion/5feb702ddf256608d2c011bb)
 ---------------------------------------------------------------------------------------------------
-Version: 1.1.0
-Date: 2020-11-30
-  Info:
-    - Update for Factorio 1.1.
----------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 2020-09-11
   Bugfixes:
